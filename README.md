@@ -2,6 +2,15 @@
 
 ### Project Tile: E comerce Sales Analysis
 
+[Project Overview](#project-overview)
+
+Data Sources
+
+Tools Used
+
+Data Cleaning and Prepartions
+ 
+
 ### Project Overview
 ---
 This Data Analysis project aims to generate insights into the sales performance of the E commerce project over the past year. By analysing the various parameters in the data recieved we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insights gotten and to know the best performance from our data.
@@ -47,3 +56,11 @@ The primary sources of Data used here is Data Sale.csv and this is an open sourc
 
 [Audit Expenses.xlsx](https://github.com/user-attachments/files/17213780/Audit.Expenses.xlsx)
 
+
+😄
+
+💻
+
+|Heading 1|Heading 2|Heading 3|
+|---------|---------|---------|
+|Table 1|Table 2|Table 3|
