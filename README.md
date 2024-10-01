@@ -43,3 +43,7 @@ The primary sources of Data used here is Data Sale.csv and this is an open sourc
     WHERE CONDITION = TRUE
     ```
   
+### Data Visualization
+
+[Audit Expenses.xlsx](https://github.com/user-attachments/files/17213780/Audit.Expenses.xlsx)
+
